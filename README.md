@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **subhamrahar22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MQ4UquV8hfX8WFyMQezqkpoknwaNVFPE/view?usp=sharing](https://drive.google.com/file/d/1MQ4UquV8hfX8WFyMQezqkpoknwaNVFPE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1oGaF5lsoQiYJagJGBsd3F0bg-5NJ6-lP/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
