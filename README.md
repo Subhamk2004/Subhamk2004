@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subham Kumar</h1>
+<h1 align="center">Hello 👋, I'm Subham Kumar</h1>
 <h3 align="center">Full-Stack Developer | Building Seamless Web & Mobile Experiences</h3>
 
 - 👨‍💻 All of my projects are available at [https://subhamk2004.github.io/Subham_Portfolio/](https://subhamk2004.github.io/Subham_Portfolio/)
