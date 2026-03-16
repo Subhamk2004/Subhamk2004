@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Subham Kumar</h1>
 <h3 align="center">Full-Stack Developer | Building Seamless Web & Mobile Experiences</h3>
 
-- 👨‍💻 Check out my top projects here [https://subhamk2004.github.io/Subham_Portfolio/](https://subhamk2004.github.io/Subham_Portfolio/)
+- 👨‍💻 Check out my top projects here [https://subhamk2004.github.io/subham-portfolio/](https://subhamk2004.github.io/subham-portfolio/)
 
 - 📫 How to reach me **subhamrahar22@gmail.com**
 
